@@ -1,0 +1,12 @@
+title: rpi-scratch-control-led
+hero_image: images/banner.png
+description: rpi-scratch-control-led description
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: false
+interests: ""
+technologies: "python"
+steps:
+  - title: Step one
