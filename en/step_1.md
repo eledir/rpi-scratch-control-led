@@ -8,7 +8,7 @@ To control an LED using the Scratch 2 GPIO extension, first make sure you have [
 
 - To turn on an LED that is connected to pin 17, for instance, set the gpio pin to 17.
 
-	![set pin 17[(images/set_pin_17.png)
+	![set pin 17](images/set_pin_17.png)
 
 - You can click this block to switch on an LED, or use a different `Event` as shown below.
 
