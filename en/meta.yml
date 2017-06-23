@@ -1,12 +1,12 @@
-title: rpi-scratch-control-led
+title: Control and LED with scatch
 hero_image: images/banner.png
-description: rpi-scratch-control-led description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Turn an LED on and off with Scratch
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
-interests: ""
-technologies: "python"
+ingredient: true
+interests: "physical computing"
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Control an LED
