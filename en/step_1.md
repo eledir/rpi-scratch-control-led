@@ -17,3 +17,7 @@ To control an LED using the Scratch 2 GPIO extension, first make sure you have [
 - If you want to switch an LED off, you can use the same block, but by clicking on the small black arrow, you can change `output high` to `output low`.
 
 	![led_off](images/led_off.png)
+
+- Here's a video showing the process and the result.
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/_rWjHQa7SKk" frameborder="0" allowfullscreen></iframe>
