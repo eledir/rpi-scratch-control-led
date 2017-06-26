@@ -21,6 +21,6 @@ To control an LED using the Scratch 2 GPIO extension, first make sure you have [
 - Here's a video showing the process and the result.
 
 	<video width="560" height="315" controls>
-	<source src="images/scratch_control_led.webm" type="video/webm">
+	<source src="https://s3.eu-west-2.amazonaws.com/learning-resources-production/projects/rpi-scratch-control-led/a1eb75342edc5f5da97e9a35a11d7db249b0b742/en/images/scratch_control_led.webm" type="video/webm">
 	Try using Firefox or Chrome for WebM support
 	</video>
