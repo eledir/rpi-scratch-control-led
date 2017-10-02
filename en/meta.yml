@@ -1,8 +1,8 @@
-title: Control and LED with Scatch
+title: Control an LED with Scratch
 hero_image: images/banner.png
 description: Turn an LED on and off with Scratch
 original_url:
-theme: cc-prototype
+theme: red
 duration: 1
 listed: false
 ingredient: true
