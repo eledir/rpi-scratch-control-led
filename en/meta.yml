@@ -1,0 +1,13 @@
+title: Control an LED with Scratch
+hero_image: images/banner.png
+description: Turn an LED on and off with Scratch
+original_url:
+theme: red
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+interests: "physical computing"
+technologies: "scratch"
+steps:
+  - title: Control an LED
