@@ -1,4 +1,4 @@
-- First make sure you have [added the PI GPIO extension](en/rpi-scratch-add-pi-gpio).
+- First make sure you have added the *PI GPIO extension*.
 
 - With your LED and resistor connected to you Raspberry Pi, find the `set gpio () to output high`{:class="blockmoreblocks"} block in the **More Blocks** menu.
 
