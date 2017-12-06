@@ -10,11 +10,11 @@
 
 	![set pin 17](images/set_pin_17.png)
 
-- You can click this block to switch on the LED, or use a different **Event** block, as shown below.
+- You can click this block to switch on the LED, or use a different **Event** block, as shown below. Pressing the up arrow on your keyboard will turn on the LED.
 
 	![led_on](images/led_on.png)
 
-- If you want to switch the LED off, you can use the same block and change `output high` to `output low` by clicking on the small black arrow.
+- If you want to switch the LED off, you can use the same block and change `output high` to `output low` by clicking on the small black arrow. Pressing the down arrow on your keyboard will turn off the LED.
 
 	![led_off](images/led_off.png)
 
